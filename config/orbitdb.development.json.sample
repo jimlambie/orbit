@@ -1,0 +1,9 @@
+{
+  "database": {
+    "name": "dadi.api"
+  },
+  "databases": {
+    "dadi.api.books": "/orbitdb/QmSe8JcEpZBFp2B6Khf2qYnyjwSyi42xDVT7HSdrUbHFux/dadi.api.books",
+    "dadi.api.users": "/orbitdb/QmbmxPoHFspsJob8fvsoycfjDE619bmN2bp1ciiNtKjaog/dadi.api.users"
+  }
+}
