@@ -1,5 +1,8 @@
 {
   "database": {
     "name": "dadi.api"
-  }
+  },
+  "databases": {},
+  "repo": ".ipfs",
+  "store": ".orbitdb"
 }
